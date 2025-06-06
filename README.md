@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Gs-FIAP-NOE/Gs-FrontEnd-WebDev/raw/main/src/assets/img/logo-light.png" width="200px">
+<img src="https://github.com/Gs-FIAP-NOE/Gs-Front-Web/raw/main/src/assets/img/logo-light.png" width="200px">
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ### Muito Antes Da Tempestade, Vem NOÉ!
 
-# [noe.com.br](https://gs-fiap-noe.github.io/Gs-FrontEnd-WebDev/)
+# [noe.com.br](https://gs-fiap-noe.github.io/Gs-Front-Web/)
 </div>
 
 ### ♦ Imagem Gabarito
@@ -92,7 +92,7 @@ Desenvolver uma solução acessível, eficaz e de fácil replicação que ajude 
  
 ## Links
 
-[Projeto Wokwi](https://wokwi.com/projects/new/arduino-uno) <br>
+[Projeto Wokwi](https://wokwi.com/projects/433054970677842945) <br>
 [Video Pitch](https://youtu.be/6oVhjPzkZYw)
 
 
