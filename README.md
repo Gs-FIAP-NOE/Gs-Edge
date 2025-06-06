@@ -92,8 +92,8 @@ Desenvolver uma solução acessível, eficaz e de fácil replicação que ajude 
  
 ##links
 
--[Projeto Wokwi](https://wokwi.com/projects/new/arduino-uno)
--[Video Pitch](https://youtu.be/6oVhjPzkZYw)
+[Projeto Wokwi](https://wokwi.com/projects/new/arduino-uno) <br>
+[Video Pitch](https://youtu.be/6oVhjPzkZYw)
 
 
 ## 👨‍💻 Desenvolvedores
