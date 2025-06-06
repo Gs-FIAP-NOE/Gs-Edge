@@ -89,6 +89,11 @@ Desenvolver uma solução acessível, eficaz e de fácil replicação que ajude 
 
 - **Desafio**: Simular em ambientes virtuais como Wokwi.
   - ✔️ *Solução*: Código compatível com Wokwi e simulação 100% funcional sem componentes físicos.
+ 
+##links
+
+[Projeto Wokwi](https://wokwi.com/projects/new/arduino-uno)
+[Video Pitch](https://youtu.be/6oVhjPzkZYw)
 
 
 ## 👨‍💻 Desenvolvedores
